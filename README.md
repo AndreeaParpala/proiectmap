@@ -33,6 +33,7 @@ Minimul și maximul elementelor aflate sub diagonala principală
 Minimul și maximul elementelor aflate sub diagonala secundara
 
 Avem o functie declarata minsimax_diagSec, doua variabile, i si j, si o conditie pentru satisfacerea coditiei m==n
+
  ![mmds](https://user-images.githubusercontent.com/115788226/211169209-07bd6726-362f-41d7-93fb-beaa13b45cb0.png)
 
 
